@@ -1,0 +1,64 @@
+Sno.,COURSE COD,COURSE TITLE,SLOT,EMPLOYEE NAME
+,BCSE102L,Structured and Object?Oriented Programming,C1,JAGALINGAM P
+,BCSE102L,Structured and Object?Oriented Programming,C2,JAGALINGAM P
+,BCSE102L,Structured and Object?Oriented Programming,C2,SRIVANI A
+,BCSE102L,Structured and Object?Oriented Programming,A1,ANURADHA D
+,BCSE102L,Structured and Object?Oriented Programming,A2,ANURADHA D
+,BCSE102L,Structured and Object?Oriented Programming,A2,GERALDINE BESSIE AMALI D
+,BCSE102L,Structured and Object?Oriented Programming,B2,ARUP GHOSH
+,BCSE102L,Structured and Object?Oriented Programming,A1,SENTHIL KUMAR K
+,BCSE102L,Structured and Object?Oriented Programming,A2,SENTHIL KUMAR K
+,BCSE102L,Structured and Object?Oriented Programming,A1,SENTHILNATHAN
+,BCSE102L,Structured and Object?Oriented Programming,A2,SENTHILNATHAN
+,BCSE102L,Structured and Object?Oriented Programming,A2,JAISANKAR N
+,BCSE102L,Structured and Object?Oriented Programming,C1,NARAYANAN PRASANTH
+,BCSE102L,Structured and Object?Oriented Programming,C2,NARAYANAN PRASANTH
+,BCSE102L,Structured and Object?Oriented Programming,A1,JANANI T
+,BCSE102L,Structured and Object?Oriented Programming,A2,JANANI T
+,BCSE102L,Structured and Object?Oriented Programming,B2,ANNY LEEMA A
+,BCSE102L,Structured and Object?Oriented Programming,B1,MADIAJAGAN M
+,BCSE102P,Structured and Object?Oriented Programming Lab,L47+L48+L55+L56,JAISANKAR N
+,BCSE102P,Structured and Object?Oriented Programming Lab,L03+L04+L09+L10,JAISANKAR N
+,BCSE102P,Structured and Object?Oriented Programming Lab,L49+L50+L55+L56,SENTHIL KUMAR K
+,BCSE102P,Structured and Object?Oriented Programming Lab,L03+L04+L25+L26,SENTHIL KUMAR K
+,BCSE102P,Structured and Object?Oriented Programming Lab,L09+L10+L25+L26,SRIVANI A
+,BCSE102P,Structured and Object?Oriented Programming Lab,L41+L42+L49+L50,RISHIN HALDAR
+,BCSE102P,Structured and Object?Oriented Programming Lab,L35+L36+L43+L44,GLADYS GNANA KIRUBA B
+,BCSE102P,Structured and Object?Oriented Programming Lab,L15+L16+L29+L30,GLADYS GNANA KIRUBA B
+,BCSE102P,Structured and Object?Oriented Programming Lab,L37+L38+L47+L48,SENTHILNATHAN
+,BCSE102P,Structured and Object?Oriented Programming Lab,L11+L12+L29+L30,SENTHILNATHAN
+,BCSE102P,Structured and Object?Oriented Programming Lab,L37+L38+L53+L54,NAGA RAJA G
+,BCSE102P,Structured and Object?Oriented Programming Lab,L09+L10+L23+L24,NAGA RAJA G
+,BCSE102P,Structured and Object?Oriented Programming Lab,L05+L06+L15+L16,JAYA SUBALAKSHMI R
+,BCSE102P,Structured and Object?Oriented Programming Lab,L31+L32+L55+L56,JAYA SUBALAKSHMI R
+,BCSE102P,Structured and Object?Oriented Programming Lab,L39+L40+L49+L50,ANURADHA D
+,BCSE102P,Structured and Object?Oriented Programming Lab,L5+L6+L15+L16,ANURADHA D
+,BCSE102P,Structured and Object?Oriented Programming Lab,L11+L12+L13+L14,PADMA PRIYA R
+,BCSE102P,Structured and Object?Oriented Programming Lab,L31+L32+L57+L58,PADMA PRIYA R
+,BCSE102P,Structured and Object?Oriented Programming Lab,L11+L12+L25+L26,GERALDINE BESSIE AMALI D
+,BCSE102P,Structured and Object?Oriented Programming Lab,L51+L52+L59+L60,JANANI T
+,BCSE102P,Structured and Object?Oriented Programming Lab,L19+L20+L29+L30,JANANI T
+,BCSE102P,Structured and Object?Oriented Programming Lab,L41+L42+L51+L52,CHANDRA MOHAN B
+,BCSE102P,Structured and Object?Oriented Programming Lab,L05+L06+L13+L14,JAISAKTHI S M
+,BCSE102P,Structured and Object?Oriented Programming Lab,L51+L52+L55+L56,JAISAKTHI S M
+,BCSE102P,Structured and Object?Oriented Programming Lab,L31+L32+L59+L60,SHASHANK MOULI SATAPATHY
+,BCSE102P,Structured and Object?Oriented Programming Lab,L09+L10+L15+L16,SHASHANK MOULI SATAPATHY
+,BCSE102P,Structured and Object?Oriented Programming Lab,L43+L44+L49+L50,MADIAJAGAN M
+,BCSE102P,Structured and Object?Oriented Programming Lab,L05+L06+L21+L22,ANNY LEEMA A
+,BCSE102P,Structured and Object?Oriented Programming Lab,L07+L08+L23+L24,NARAYANAN PRASANTH
+,BCSE102P,Structured and Object?Oriented Programming Lab,L31+L32+L47+L48,NARAYANAN PRASANTH
+,BCSE102P,Structured and Object?Oriented Programming Lab,L35+L36+L39+L40,JAGALINGAM P
+,BCSE102P,Structured and Object?Oriented Programming Lab,L03+L04+L23+L24,JAGALINGAM P
+,BCSE102P,Structured and Object?Oriented Programming Lab,L15+L16+L29+L30,ARUP GHOSH
+,BCSE102P,Structured and Object?Oriented Programming Lab,L35+L36+L51+L52,JOSHVA DEVADAS T
+,BCSE102P,Structured and Object?Oriented Programming Lab,L09+L10+L15+L16,JOSHVA DEVADAS T
+,BCSE102P,Structured and Object?Oriented Programming Lab,L39+L40+L57+L58,JAYARAM REDDY A
+,BCSE102P,Structured and Object?Oriented Programming Lab,L13+L14+L27+L28,JAYARAM REDDY A
+,BCSE102P,Structured and Object?Oriented Programming Lab,L07+L08+L29+L30,PRASANNA S
+,BCSE102P,Structured and Object?Oriented Programming Lab,L41+L42+L57+L58,PRASANNA S
+,BCSE102P,Structured and Object?Oriented Programming Lab,L41+L42+L57+L58,MAREESWARI V
+,BCSE102P,Structured and Object?Oriented Programming Lab,L09+L10+L25+L26,MAREESWARI V
+,BCSE102P,Structured and Object?Oriented Programming Lab,L41+L42+L57+L58,THANAPAL P
+,BCSE102P,Structured and Object?Oriented Programming Lab,L07+L08+L15+L16,THANAPAL P
+,BCSE102P,Structured and Object?Oriented Programming Lab,L23+L24+L25+L26,ALAGIRI I
+,BCSE102P,Structured and Object?Oriented Programming Lab,L47+L48+L57+L58,ALAGIRI I

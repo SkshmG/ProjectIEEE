@@ -1,0 +1,67 @@
+Sl.No.,Course Code,Course Title,Slot,Faculty
+1,BENG101L,Technical English Communication,B2,16186 - YADAMALA SREENIVASULU - SSL
+2,BENG101L,Technical English Communication,B2,12546 - G CHRISTOPHER - SSL
+3,BENG101L,Technical English Communication,C1,17057 - VARSHA K - SSL
+4,BENG101L,Technical English Communication,D1,10078 - MD. SAHUL HAMEED M A - SSL
+5,BENG101L,Technical English Communication,D1,17056 - SUSHANT KISHORE - SSL
+6,BENG101L,Technical English Communication,D2,17079 - SENTHIL BABU M K - SSL
+7,BENG101L,Technical English Communication,D2,13966 - SUGANTHAN C - IIIP
+8,BENG101L,Technical English Communication,D2,10551 - BHUVANESWARI V - SSL
+9,BENG101L,Technical English Communication,E1,12015 - AJANTA SIRCAR - SSL
+10,BENG101L,Technical English Communication,E1,10078 - MD. SAHUL HAMEED M A - SSL
+11,BENG101L,Technical English Communication,E1,16210 - MATHUMATHY S - SSL
+12,BENG101L,Technical English Communication,E1,10551 - BHUVANESWARI V - SSL
+13,BENG101L,Technical English Communication,E1,14082 - EVANGELINE PRISCILLA B - SSL
+14,BENG101L,Technical English Communication,E1,13966 - SUGANTHAN C - IIIP
+15,BENG101L,Technical English Communication,E1,17079 - SENTHIL BABU M K - SSL
+16,BENG101L,Technical English Communication,E1,17056 - SUSHANT KISHORE - SSL
+17,BENG101L,Technical English Communication,E1,12033 - ANBURAJ G - SSL
+18,BENG101L,Technical English Communication,E1,13754 - SENGUTTUVAN M - SSL
+19,BENG101L,Technical English Communication,E2,17057 - VARSHA K - SSL
+20,BENG101L,Technical English Communication,E2,12006 - SARIKA GUPTA - SSL
+21,BENG101L,Technical English Communication,E2,16186 - YADAMALA SREENIVASULU - SSL
+22,BENG101L,Technical English Communication,E2,12015 - AJANTA SIRCAR - SSL
+23,BENG101L,Technical English Communication,E2,12033 - ANBURAJ G - SSL
+24,BENG101L,Technical English Communication,E2,13966 - SUGANTHAN C - IIIP
+25,BENG101L,Technical English Communication,E2,14798 - SUNITHA V - SSL
+26,BENG101L,Technical English Communication,E2,10551 - BHUVANESWARI V - SSL
+27,BENG101L,Technical English Communication,E2,14082 - EVANGELINE PRISCILLA B - SSL
+28,BENG101L,Technical English Communication,G1,12546 - G CHRISTOPHER - SSL
+29,BENG101L,Technical English Communication,G1,16183 - JOBIN MATHEW KANJIRAKKAT - SSL
+30,BENG101L,Technical English Communication,G2,10078 - MD. SAHUL HAMEED M A - SSL
+31,BENG101L,Technical English Communication,G2,12015 - AJANTA SIRCAR - SSL
+32,BENG101L,Technical English Communication,G2,17079 - SENTHIL BABU M K - SSL
+,,,,
+1,BENG101P,Technical English Communication Lab,L11+L12,14082 - EVANGELINE PRISCILLA B - SSL
+2,BENG101P,Technical English Communication Lab,L15+L16,10078 - MD. SAHUL HAMEED M A - SSL
+3,BENG101P,Technical English Communication Lab,L19+L20,12033 - ANBURAJ G - SSL
+4,BENG101P,Technical English Communication Lab,L19+L20,14082 - EVANGELINE PRISCILLA B - SSL
+5,BENG101P,Technical English Communication Lab,L19+L20,12946 - PREETHA R - SSL
+6,BENG101P,Technical English Communication Lab,L1+L2,17079 - SENTHIL BABU M K - SSL
+7,BENG101P,Technical English Communication Lab,L1+L2,14086 - SARASWATHY S - SSL
+8,BENG101P,Technical English Communication Lab,L21+L22,12006 - SARIKA GUPTA - SSL
+9,BENG101P,Technical English Communication Lab,L21+L22,14086 - SARASWATHY S - SSL
+10,BENG101P,Technical English Communication Lab,L23+L24,16186 - YADAMALA SREENIVASULU - SSL
+11,BENG101P,Technical English Communication Lab,L23+L24,13966 - SUGANTHAN C - IIIP
+12,BENG101P,Technical English Communication Lab,L27+L28,14798 - SUNITHA V - SSL
+13,BENG101P,Technical English Communication Lab,L29+L30,16186 - YADAMALA SREENIVASULU - SSL
+14,BENG101P,Technical English Communication Lab,L29+L30,17057 - VARSHA K - SSL
+15,BENG101P,Technical English Communication Lab,L31+L32,12033 - ANBURAJ G - SSL
+16,BENG101P,Technical English Communication Lab,L35+L36,16157 - SNEHA MISHRA - SSL
+17,BENG101P,Technical English Communication Lab,L39+L40,10078 - MD. SAHUL HAMEED M A - SSL
+18,BENG101P,Technical English Communication Lab,L3+L4,10551 - BHUVANESWARI V - SSL
+19,BENG101P,Technical English Communication Lab,L41+L42,12546 - G CHRISTOPHER - SSL
+20,BENG101P,Technical English Communication Lab,L41+L42,17056 - SUSHANT KISHORE - SSL
+21,BENG101P,Technical English Communication Lab,L43+L44,12946 - PREETHA R - SSL
+22,BENG101P,Technical English Communication Lab,L43+L44,14082 - EVANGELINE PRISCILLA B - SSL
+23,BENG101P,Technical English Communication Lab,L45+L46,17056 - SUSHANT KISHORE - SSL
+24,BENG101P,Technical English Communication Lab,L45+L46,10551 - BHUVANESWARI V - SSL
+25,BENG101P,Technical English Communication Lab,L51+L52,13966 - SUGANTHAN C - IIIP
+26,BENG101P,Technical English Communication Lab,L53+L54,16183 - JOBIN MATHEW KANJIRAKKAT - SSL
+27,BENG101P,Technical English Communication Lab,L57+L58,14086 - SARASWATHY S - SSL
+28,BENG101P,Technical English Communication Lab,L59+L60,12946 - PREETHA R - SSL
+29,BENG101P,Technical English Communication Lab,L59+L60,10078 - MD. SAHUL HAMEED M A - SSL
+30,BENG101P,Technical English Communication Lab,L5+L6,12546 - G CHRISTOPHER - SSL
+31,BENG101P,Technical English Communication Lab,L5+L6,16183 - JOBIN MATHEW KANJIRAKKAT - SSL
+32,BENG101P,Technical English Communication Lab,L7+L8,13966 - SUGANTHAN C - IIIP
+33,BENG101P,Technical English Communication Lab,L7+L8,10551 - BHUVANESWARI V - SSL
