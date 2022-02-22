@@ -1,2 +1,2 @@
-# ProjectIEEE
+# SkshmG.ProjectIEEE
 Laziest timetable
